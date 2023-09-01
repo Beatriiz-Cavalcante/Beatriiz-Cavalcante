@@ -1,10 +1,16 @@
-### Beatriz Cavalcante 👋
+###Olá :) me chamo Beatriz Cavalcante 👋
 
 <div>
   <h2>Conheça um pouco sobre mim</h2>
   <p>
-    Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade SENAC pelo programa Embarque Digital.
-    Faço curso de Desenvolvimento Web no IOS - Instituto da Oportunidade Social 
+    Sou iniciante na área de TI entusiasmada para aprender cada vez mais! <br>
+    Faço faculdade de Análise e Desenvolvimento de Sistemas na faculdade SENAC pelo programa Embarque Digital. <br> <br>
+    <strong>Formação complementar:</strong> <br>
+    <ul>
+      <li>urso de Desenvolvimento Web no IOS - Instituto da Oportunidade Social </li>
+      <li>Santander Bootcamp 2023 - Fullstack Java+Angular</li>
+      <li>Descubra a Nuvem AWS – LocalizaLabs</li>
+    </ul>  
   </p>
 </div>
 
