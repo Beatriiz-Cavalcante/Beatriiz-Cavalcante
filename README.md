@@ -7,7 +7,7 @@
     Faço faculdade de Análise e Desenvolvimento de Sistemas na faculdade SENAC pelo programa Embarque Digital. <br> <br>
     <strong>Formação complementar:</strong> <br>
     <ul>
-      <li>urso de Desenvolvimento Web no IOS - Instituto da Oportunidade Social </li>
+      <li>Curso de Desenvolvimento Web no IOS - Instituto da Oportunidade Social </li>
       <li>Santander Bootcamp 2023 - Fullstack Java+Angular</li>
       <li>Descubra a Nuvem AWS – LocalizaLabs</li>
     </ul>  
