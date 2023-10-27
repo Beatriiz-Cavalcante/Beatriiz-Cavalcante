@@ -8,8 +8,6 @@
     <strong>Formação complementar:</strong> <br>
     <ul>
       <li>Curso de Desenvolvimento Web no IOS - Instituto da Oportunidade Social </li>
-      <li>Santander Bootcamp 2023 - Fullstack Java+Angular</li>
-      <li>Descubra a Nuvem AWS – LocalizaLabs</li>
     </ul>  
   </p>
 </div>
