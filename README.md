@@ -7,6 +7,9 @@
     Faço faculdade de Análise e Desenvolvimento de Sistemas na faculdade SENAC pelo programa Embarque Digital. <br> <br>
     <strong>Formação complementar:</strong> <br>
     <ul>
+      <li>Com Domínio Digital - Instituto Aliança</li>
+      <li>Desenvolvomento Angular - DIO + Banco Pan</li>
+      <li>DecolaTech - DIO + Avanade</li>
       <li>Curso de Desenvolvimento Web no IOS - Instituto da Oportunidade Social </li>
     </ul>  
   </p>
