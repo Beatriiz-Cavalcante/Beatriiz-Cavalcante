@@ -4,7 +4,7 @@
   <h2>Conheça um pouco sobre mim</h2>
   <p>
     Sou iniciante na área de TI entusiasmada para aprender cada vez mais! <br>
-    Faço faculdade de Análise e Desenvolvimento de Sistemas na faculdade SENAC pelo programa Embarque Digital. <br> <br>
+    Fiz de Análise e Desenvolvimento de Sistemas na faculdade SENAC pelo programa Embarque Digital. <br> <br>
     <strong>Formação complementar:</strong> <br>
     <ul>
       <li>Com Domínio Digital - Instituto Aliança</li>
