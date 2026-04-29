@@ -15,6 +15,14 @@
 
 ---
 
+### 📚 Formação complementar
+- Com Domínio Digital — Instituto Aliança  
+- Desenvolvimento Angular — DIO + Banco Pan  
+- DecolaTech — DIO + Avanade  
+- Desenvolvimento Web — IOS  
+
+---
+
 ### 🚀 Atualmente
 - 💻 Trabalhando com suporte ao usuário
 - 📊 Criando dashboards e análises com Power BI
@@ -22,21 +30,6 @@
 - 🌐 Desenvolvendo aplicações web
 - 🐍 Criando APIs com Python (Flask)
 - 🐳 Containerizando aplicações com Docker
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,flask,docker,git,java" />
-</div>
-
----
-
-### 📚 Formação complementar
-- Com Domínio Digital — Instituto Aliança  
-- Desenvolvimento Angular — DIO + Banco Pan  
-- DecolaTech — DIO + Avanade  
-- Desenvolvimento Web — IOS  
 
 ---
 
@@ -49,5 +42,11 @@
 ### 📊 Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatriiz-Cavalcante&layout=compact&theme=dracula"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Beatriiz-Cavalcante&show_icons=true&theme=dracula"/>
+</div>
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,python,flask,docker,git,java" />
 </div>
